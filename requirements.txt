@@ -1,0 +1,7 @@
+fastapi>=0.118
+uvicorn>=0.38
+httpx[http2]>=0.28
+pydantic>=2.12
+pydantic-settings>=2.12
+# Yalnızca Colab'da ngrok ile yayına açarken gerekir
+pyngrok>=7.5
